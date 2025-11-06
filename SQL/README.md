@@ -1,0 +1,1 @@
+En este apartado se estaran subiendo los avances y actualizaciones de nuestra base de datos, con los archivos sql con sus respectivos codigos para la creacion de tablas, insertar datos de prueba e iniciales.
