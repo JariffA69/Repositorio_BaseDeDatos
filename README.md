@@ -3,7 +3,7 @@
 Este repositorio contiene todo lo relacionado con la estructura y la lógica de la información de nuestro proyecto **"Mecanics Web"**.
 
 ## Versión actual
-**v0.5 Estructura inicial** - Actualizado el 5 de noviembre de 2025
+**v0.5 Estructura inicial** - Actualizado el 14 de noviembre de 2025
 **Responsable de Actualización:** Jariff Ramiro Argaez Mendez
 
 ## Componentes
